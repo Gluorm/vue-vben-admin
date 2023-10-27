@@ -44,7 +44,7 @@
     "@vueuse/shared": "^7.4.1",
     "@zxcvbn-ts/core": "^1.2.0",
     "ant-design-vue": "3.0.0-beta.3",
-    "axios": "^0.24.0",
+    "axios": "^1.6.0",
     "codemirror": "^5.65.0",
     "cropperjs": "^1.5.12",
     "crypto-js": "^4.1.1",
